@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": " Home",
+      "path": " Home.md"
+    },
+    {
+      "type": "file",
+      "title": "Calendar",
+      "path": "04 Calendars/ Planner.md"
+    },
+    {
+      "type": "file",
+      "title": " Habits",
+      "path": "04 Calendars/ Tracker.md"
+    }
+  ]
+}

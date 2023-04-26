@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "76d709f2f16fbee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4351809727df3055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb743f57d7b81886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Sources/Hugging Face AI JS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "713c036f9e8662e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "935730a2fd02d67c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Arrays",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "731aab4bd434f331",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2d2ac7ac873f6453",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "e4deef56d505ed85",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "right": {
+    "id": "902f70e5bec00614",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "63d6d41248ad4af3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 Sources/Hugging Face AI JS.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f49b8f4c442ce7aa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 Sources/Hugging Face AI JS.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "16772a2d7d9350ab",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 Sources/Hugging Face AI JS.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "auto-moc:AutoMOC": false,
+      "janitor:Janitor: scan vault": false,
+      "random-note:Open random note": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "fb743f57d7b81886",
+  "lastOpenFiles": [
+    "00 Atlas/ Development MOC.md",
+    "02 Sources/Hugging Face AI JS.md",
+    "04 Calendars/Logs/2023-04-25.md",
+    "04 Calendars/Logs/2023-04-24.md",
+    "Untitled.md",
+    "04 Calendars/Logs/2023-04-23.md",
+    "02 Sources/Atomic Habits.md",
+    "02 Sources/HTML.md",
+    "04 Calendars/Logs/2023-04-20.md",
+    "04 Calendars/Logs/2023-04-21.md",
+    "04 Calendars/Logs/2023-04-22.md",
+    " Home.md",
+    "Untitled",
+    "04 Calendars/Logs/2023-04-19.md",
+    "04 Calendars/Logs/2023-04-17.md",
+    "04 Calendars/Logs/2023-04-16.md",
+    "01 Cards/Developers in Egypt Suck.md",
+    "01 Cards/Mood Tracker Powered by ChatGPT.md",
+    "04 Calendars/Logs/2023-04-14.md",
+    "02 Sources/JS.md",
+    "04 Calendars/Logs/2023-04-13.md",
+    "04 Calendars/Logs/2023-04-13.sync-conflict-20230414-021134-4C6OWZC.md",
+    "04 Calendars/Logs/2023-04-12.md",
+    "04 Calendars/Logs/2023-04-11.md",
+    "04 Calendars/Logs/2023-04-10.md",
+    "02 Sources/JS Arrays.md",
+    "02 Calendars/Logs/2023-02-07.md"
+  ]
+}

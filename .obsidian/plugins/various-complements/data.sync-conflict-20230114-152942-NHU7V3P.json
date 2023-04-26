@@ -1,0 +1,1243 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "Ctrl/Cmd+J, Ctrl/Cmd+K",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": true,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "corresponding": {
+      "corresponding": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1671406398052
+        }
+      }
+    },
+    "information": {
+      "information": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1671316565677
+        }
+      }
+    },
+    "System": {
+      "System": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1671651492251
+        }
+      }
+    },
+    "structure": {
+      "structure": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671660302790
+        }
+      }
+    },
+    "center": {
+      "center": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671659566370
+        }
+      }
+    },
+    "knowledge": {
+      "knowledge": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671311952370
+        }
+      }
+    },
+    "together": {
+      "together": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671649307206
+        }
+      }
+    },
+    "concatenation": {
+      "concatenation": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1671319277846
+        }
+      }
+    },
+    "german": {
+      "german": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671311700968
+        }
+      }
+    },
+    "note": {
+      "note": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671312029278
+        }
+      }
+    },
+    "ultimately": {
+      "ultimately": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671312119057
+        }
+      }
+    },
+    "Literature": {
+      "Literature": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671312391500
+        }
+      }
+    },
+    "Permenant": {
+      "Permenant": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1671312316581
+        }
+      }
+    },
+    "Permanent": {
+      "Permanent": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671313255188
+        }
+      }
+    },
+    "Steps": {
+      "Steps": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1672407311453
+        }
+      }
+    },
+    "notes": {
+      "notes": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1672407307449
+        }
+      }
+    },
+    "Zettelkasten": {
+      "Zettelkasten": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671312862321
+        }
+      }
+    },
+    "Notes": {
+      "Notes": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673366221557
+        }
+      }
+    },
+    "example": {
+      "example": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671313241667
+        }
+      }
+    },
+    "appropriate": {
+      "appropriate": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671319229896
+        }
+      }
+    },
+    "category": {
+      "category": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1671316520434
+        }
+      }
+    },
+    "methodology": {
+      "methodology": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671313702312
+        }
+      }
+    },
+    "assessment": {
+      "assessment": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671314363262
+        }
+      }
+    },
+    "cumulative": {
+      "cumulative": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671315862667
+        }
+      }
+    },
+    "Seedling": {
+      "Seedling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671316281747
+        }
+      }
+    },
+    "etc": {
+      "etc": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671316544394
+        }
+      }
+    },
+    "Evergreen": {
+      "Evergreen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671316550191
+        }
+      }
+    },
+    "entirely": {
+      "entirely": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671316697572
+        }
+      }
+    },
+    "link-able": {
+      "link-able": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671316719465
+        }
+      }
+    },
+    "coercion": {
+      "coercion": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671319566739
+        }
+      }
+    },
+    "respectively": {
+      "respectively": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671405394640
+        }
+      }
+    },
+    "behaviour": {
+      "behaviour": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671408222261
+        }
+      }
+    },
+    "Javascript": {
+      "Javascript": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671408596744
+        }
+      }
+    },
+    "reassignment": {
+      "reassignment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671411187298
+        }
+      }
+    },
+    "Gravity": {
+      "Gravity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671645095434
+        }
+      }
+    },
+    "acceleration": {
+      "acceleration": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1671651581504
+        }
+      }
+    },
+    "sophisticated": {
+      "sophisticated": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671649725911
+        }
+      }
+    },
+    "physics": {
+      "physics": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671650220008
+        }
+      }
+    },
+    "other": {
+      "other": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671650280073
+        }
+      }
+    },
+    "environment": {
+      "environment": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673277252815
+        }
+      }
+    },
+    "particles": {
+      "particles": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671650653829
+        }
+      }
+    },
+    "attributes": {
+      "attributes": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671650676289
+        }
+      }
+    },
+    "process": {
+      "process": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671651232148
+        }
+      }
+    },
+    "Attributes": {
+      "Attributes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671651335522
+        }
+      }
+    },
+    "Shape": {
+      "Shape": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671651344144
+        }
+      }
+    },
+    "transparency": {
+      "transparency": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671651361443
+        }
+      }
+    },
+    "accumulate": {
+      "accumulate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671651443635
+        }
+      }
+    },
+    "forces": {
+      "forces": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671651572963
+        }
+      }
+    },
+    "Accumulate": {
+      "Accumulate": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1671651566066
+        }
+      }
+    },
+    "velocity": {
+      "velocity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671651584247
+        }
+      }
+    },
+    "Perception": {
+      "Perception": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1673306229767
+        }
+      }
+    },
+    "Physics": {
+      "Physics": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671651701162
+        }
+      }
+    },
+    "neighbors": {
+      "neighbors": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671659395217
+        }
+      }
+    },
+    "immediately": {
+      "immediately": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671659405959
+        }
+      }
+    },
+    "urge": {
+      "urge": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671659558472
+        }
+      }
+    },
+    "designated": {
+      "designated": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671659571899
+        }
+      }
+    },
+    "migration": {
+      "migration": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671659672537
+        }
+      }
+    },
+    "avoidance": {
+      "avoidance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671659686584
+        }
+      }
+    },
+    "cognitive": {
+      "cognitive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671659807134
+        }
+      }
+    },
+    "topology": {
+      "topology": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671660276675
+        }
+      }
+    },
+    "Psychology": {
+      "Psychology": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672231803919
+        }
+      }
+    },
+    "Achieve": {
+      "Achieve": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672232288833
+        }
+      }
+    },
+    "Independence": {
+      "Independence": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1672275549512
+        }
+      }
+    },
+    "achieving": {
+      "achieving": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1672232768930
+        }
+      }
+    },
+    "independence": {
+      "independence": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1672275375937
+        }
+      }
+    },
+    "especially": {
+      "especially": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672232955540
+        }
+      }
+    },
+    "Hyper-independence": {
+      "Hyper-independence": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1672275689529
+        }
+      }
+    },
+    "Reasons": {
+      "Reasons": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672275157197
+        }
+      }
+    },
+    "abandoned": {
+      "abandoned": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672275222044
+        }
+      }
+    },
+    "Characterize": {
+      "Characterize": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1672275416155
+        }
+      }
+    },
+    "Characteristics": {
+      "Characteristics": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672275419004
+        }
+      }
+    },
+    "Inability": {
+      "Inability": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1672275445817
+        }
+      }
+    },
+    "others": {
+      "others": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672275452898
+        }
+      }
+    },
+    "work": {
+      "work": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672275499438
+        }
+      }
+    },
+    "events": {
+      "events": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672275519886
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673285200504
+        }
+      }
+    },
+    "communicate": {
+      "communicate": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672275745063
+        }
+      }
+    },
+    "paragraph": {
+      "paragraph": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1672276163679
+        }
+      }
+    },
+    "emotions": {
+      "emotions": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672276156992
+        }
+      }
+    },
+    "time": {
+      "time": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672407323077
+        }
+      }
+    },
+    "Progressive Summarization": {
+      "Progressive Summarization": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1672407479513
+        }
+      }
+    },
+    "priority": {
+      "priority": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673058438426
+        }
+      }
+    },
+    "Whatsapp": {
+      "Whatsapp": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673108633179
+        }
+      }
+    },
+    "Ideas": {
+      "Ideas": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673109161734
+        }
+      }
+    },
+    "HTML": {
+      "HTML": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673117347104
+        }
+      }
+    },
+    "CSS": {
+      "CSS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673117352129
+        }
+      }
+    },
+    "useless": {
+      "useless": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673118369859
+        }
+      }
+    },
+    "Growth": {
+      "Growth": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673126959152
+        }
+      }
+    },
+    "Knowledge": {
+      "Knowledge": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673129111318
+        }
+      }
+    },
+    "prescribed": {
+      "prescribed": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673190134019
+        }
+      }
+    },
+    "Approximation": {
+      "Approximation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673190488803
+        }
+      }
+    },
+    "Functions": {
+      "Functions": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673190647296
+        }
+      }
+    },
+    "Complexity": {
+      "Complexity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673191677515
+        }
+      }
+    },
+    "compute": {
+      "compute": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673191737075
+        }
+      }
+    },
+    "polynomials": {
+      "polynomials": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673191765059
+        }
+      }
+    },
+    "flexibility": {
+      "flexibility": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673191786409
+        }
+      }
+    },
+    "Continous": {
+      "Continous": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673192150589
+        }
+      }
+    },
+    "Continues": {
+      "Continues": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673192160349
+        }
+      }
+    },
+    "Control": {
+      "Control": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673192241313
+        }
+      }
+    },
+    "perpendicular": {
+      "perpendicular": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673196286047
+        }
+      }
+    },
+    "intermediate": {
+      "intermediate": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673197278069
+        }
+      }
+    },
+    "disadvantages": {
+      "disadvantages": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673196966495
+        }
+      }
+    },
+    "Intermediate": {
+      "Intermediate": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673197139582
+        }
+      }
+    },
+    "Quaternion": {
+      "Quaternion": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673197837757
+        }
+      }
+    },
+    "accomplished": {
+      "accomplished": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673277128688
+        }
+      }
+    },
+    "Techniques": {
+      "Techniques": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673277199386
+        }
+      }
+    },
+    "painting": {
+      "painting": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673277206554
+        }
+      }
+    },
+    "projection": {
+      "projection": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673288182263
+        }
+      }
+    },
+    "perspective": {
+      "perspective": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673277229884
+        }
+      }
+    },
+    "sets": {
+      "sets": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673277231954
+        }
+      }
+    },
+    "graphicss": {
+      "graphicss": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673277241758
+        }
+      }
+    },
+    "environments": {
+      "environments": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673277253897
+        }
+      }
+    },
+    "Effects": {
+      "Effects": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673277462873
+        }
+      }
+    },
+    "removal": {
+      "removal": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673279057314
+        }
+      }
+    },
+    "enhancement": {
+      "enhancement": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673279075127
+        }
+      }
+    },
+    "post-production": {
+      "post-production": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673280977569
+        }
+      }
+    },
+    "foreground": {
+      "foreground": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673280931785
+        }
+      }
+    },
+    "tones": {
+      "tones": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673282854340
+        }
+      }
+    },
+    "wave": {
+      "wave": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673284327872
+        }
+      }
+    },
+    "Measurement": {
+      "Measurement": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673284372818
+        }
+      }
+    },
+    "characteristics": {
+      "characteristics": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673284758229
+        }
+      }
+    },
+    "noise": {
+      "noise": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673286093661
+        }
+      }
+    },
+    "Management": {
+      "Management": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673287489872
+        }
+      }
+    },
+    "copyrights": {
+      "copyrights": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673287509055
+        }
+      }
+    },
+    "Sounds": {
+      "Sounds": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673288342022
+        }
+      }
+    },
+    "recording": {
+      "recording": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673288364861
+        }
+      }
+    },
+    "multiple": {
+      "multiple": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673288984853
+        }
+      }
+    },
+    "Quality": {
+      "Quality": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673289008209
+        }
+      }
+    },
+    "system": {
+      "system": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673363780805
+        }
+      }
+    },
+    "capabilities": {
+      "capabilities": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673290551253
+        }
+      }
+    },
+    "increase": {
+      "increase": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673290864728
+        }
+      }
+    },
+    "last": {
+      "last": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673290879383
+        }
+      }
+    },
+    "file": {
+      "file": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673291022957
+        }
+      }
+    },
+    "quality": {
+      "quality": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673291056331
+        }
+      }
+    },
+    "Disadvantages": {
+      "Disadvantages": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673291110996
+        }
+      }
+    },
+    "Wav": {
+      "Wav": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673291292261
+        }
+      }
+    },
+    "hltr-purple": {
+      "hltr-purple": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673305864628
+        }
+      }
+    },
+    "Link": {
+      "Link": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673366238984
+        }
+      }
+    },
+    "Hierarchy": {
+      "Hierarchy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673366875744
+        }
+      }
+    },
+    "Whenever": {
+      "Whenever": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673367040525
+        }
+      }
+    },
+    "concatenate": {
+      "concatenate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673367065868
+        }
+      }
+    },
+    "Kinematics": {
+      "Kinematics": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1673370284819
+        }
+      }
+    },
+    "Frames": {
+      "Frames": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673368211956
+        }
+      }
+    },
+    "hierarchy": {
+      "hierarchy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673368238858
+        }
+      }
+    },
+    "coordinates": {
+      "coordinates": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673368273743
+        }
+      }
+    },
+    "Notations": {
+      "Notations": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673368310789
+        }
+      }
+    },
+    "analytically": {
+      "analytically": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673370912160
+        }
+      }
+    },
+    "Jacobian": {
+      "Jacobian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673371397339
+        }
+      }
+    },
+    "velocities": {
+      "velocities": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673372978279
+        }
+      }
+    }
+  }
+}

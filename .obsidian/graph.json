@@ -1,0 +1,177 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"02 Calendars/logs\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:",
+      "color": {
+        "a": 1,
+        "rgb": 12328758
+      }
+    },
+    {
+      "query": "file:",
+      "color": {
+        "a": 1,
+        "rgb": 6136543
+      }
+    },
+    {
+      "query": "file:",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "file:",
+      "color": {
+        "a": 1,
+        "rgb": 8805067
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 16161121
+      }
+    },
+    {
+      "query": "#MOC AND JS",
+      "color": {
+        "a": 1,
+        "rgb": 16106841
+      }
+    },
+    {
+      "query": "#MOC HTML",
+      "color": {
+        "a": 1,
+        "rgb": 14048792
+      }
+    },
+    {
+      "query": "#MOC Lua",
+      "color": {
+        "a": 1,
+        "rgb": 3361400
+      }
+    },
+    {
+      "query": "#MOC CSS",
+      "color": {
+        "a": 1,
+        "rgb": 4817582
+      }
+    },
+    {
+      "query": "#MOC SCSS",
+      "color": {
+        "a": 1,
+        "rgb": 14649272
+      }
+    },
+    {
+      "query": "\"doc\"",
+      "color": {
+        "a": 1,
+        "rgb": 9271204
+      }
+    },
+    {
+      "query": "\"concept\"",
+      "color": {
+        "a": 1,
+        "rgb": 14004696
+      }
+    },
+    {
+      "query": "\"article\"",
+      "color": {
+        "a": 1,
+        "rgb": 15192806
+      }
+    },
+    {
+      "query": "\"video\"",
+      "color": {
+        "a": 1,
+        "rgb": 9741508
+      }
+    },
+    {
+      "query": "\"podcast\"",
+      "color": {
+        "a": 1,
+        "rgb": 15909590
+      }
+    },
+    {
+      "query": "file: ",
+      "color": {
+        "a": 1,
+        "rgb": 15442810
+      }
+    },
+    {
+      "query": "file: ﭂",
+      "color": {
+        "a": 1,
+        "rgb": 13202640
+      }
+    },
+    {
+      "query": "file: ♥",
+      "color": {
+        "a": 1,
+        "rgb": 4556596
+      }
+    },
+    {
+      "query": "file: ",
+      "color": {
+        "a": 1,
+        "rgb": 13253441
+      }
+    },
+    {
+      "query": "file: ",
+      "color": {
+        "a": 1,
+        "rgb": 16237651
+      }
+    },
+    {
+      "query": "file:",
+      "color": {
+        "a": 1,
+        "rgb": 9284748
+      }
+    },
+    {
+      "query": "path:02",
+      "color": {
+        "a": 1,
+        "rgb": 15897242
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 0.495572916666667,
+  "collapse-forces": true,
+  "centerStrength": 0.3046875,
+  "repelStrength": 8.48958333333333,
+  "linkStrength": 0.4765625,
+  "linkDistance": 30,
+  "scale": 0.18654826883473788,
+  "close": true
+}

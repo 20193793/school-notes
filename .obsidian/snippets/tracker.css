@@ -1,0 +1,59 @@
+.tracker-title {
+	font-size: 1.3em;
+}
+
+.tracker-title-small {
+	font-size: 1em;
+}
+
+.tracker-axis-label {
+	font-size: 1.2em;
+}
+
+.tracker-tick-label {
+	font-size: 1em;
+}
+
+.tracker-tooltip-label {
+	font-size: 1em;
+}
+
+.tracker-legend-label {
+	font-size: 1.2em;
+}
+
+.tracker-month-header-year {
+	font-size: 1.5em;
+}
+
+.tracker-month-header-month {
+	font-size: 1em;
+}
+
+.tracker-month-title-arrow {
+	font-size: 1.5em;
+}
+
+.tracker-month-title-rotator {
+	font-size: 1.5em;
+}
+
+.tracker-month-title-monitor {
+	font-size: 1.3em;
+}
+
+.tracker-month-weekday {
+	font-size: 1em;
+}
+
+.tracker-month-label {
+	font-size: 1em;
+}
+
+.tracker-month-annotation {
+	font-size: 1em;
+}
+
+.tracker-pie-label {
+	font-size: 1em;
+}

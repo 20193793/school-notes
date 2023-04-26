@@ -1,0 +1,74 @@
+" Close with :q
+exmap q obcommand workspace:close
+
+" Keep screen centered
+nmap j gjzz
+nmap k gkzz
+noremap o ozz
+
+imap <Esc> <Esc><Esc>
+
+noremap H ^
+noremap L $
+
+noremap gg G
+noremap G gg
+
+" Yank to system clipboard
+set clipboard=unnamed
+set tabstop=2
+
+" Follow Link
+exmap followLinkUnderCursor obcommand editor:follow-link
+nmap gf :followLinkUnderCursor
+
+exmap fold obcommand editor:toggle-fold
+nmap gz :fold
+
+" Leader Key
+unmap <Space>
+
+exmap commandPalette obcommand command-palette:open
+nmap <Space><Space> :commandPalette
+
+" Quick explorer
+exmap quickExplorer obcommand quick-explorer:browse-vault
+nmap <Space>n :quickExplorer
+
+exmap workspaceLoad obcommand workspaces:load
+nmap <Space>w :workspaceLoad
+
+" Quick explorer
+exmap quickExplorer obcommand quick-explorer:browse-vault
+nmap <Space>n :quickExplorer
+
+" Templater
+exmap templater obcommand templater-obsidian:insert-templater
+nmap <Space>t :templater
+
+" Splitting
+exmap splitVertical obcommand workspace:split-vertical
+nmap <Space>= :splitVertical
+exmap splitHorizontal obcommand workspace:split-horizontal
+nmap <Space>- :splitHorizontal
+
+exmap focusTop obcommand editor:focus-top
+nmap <Up> :focusTop
+exmap focusBottom obcommand editor:focus-bottom
+nmap <Down> :focusBottom
+exmap focusLeft obcommand editor:focus-left
+nmap <Left> :focusLeft
+exmap focusRight obcommand editor:focus-right
+nmap <Right> :focusRight
+
+" Search files
+exmap quickSwitcher obcommand obsidian-another-quick-switcher:search-command_recent-search
+nmap <Space>ff :quickSwitcher
+
+" Search content in all files
+exmap omnisearch obcommand omnisearch:show-modal
+nmap <Space>fg :omnisearch
+
+" Add line above or below
+nmap <S-CR> mzO<Esc>`zk
+nmap <CR> mzo<Esc>`zj

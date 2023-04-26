@@ -1,0 +1,459 @@
+{
+  "strategy": "english-only",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 7,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Full",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "Ctrl/Cmd+J, Ctrl/Cmd+K",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": true,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": true,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Comma",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "web": {
+      "web": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1679886221351
+        }
+      }
+    },
+    "doc": {
+      "doc": {
+        "frontMatter": {
+          "count": 7,
+          "lastUpdated": 1680828514906
+        }
+      }
+    },
+    "gym": {
+      "gym": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1680405138993
+        }
+      }
+    },
+    "IMPORTANT": {
+      "IMPORTANT": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1679920764020
+        }
+      }
+    },
+    "workout": {
+      "workout": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1679877815302
+        }
+      }
+    },
+    "idea": {
+      "idea": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1679886211199
+        }
+      }
+    },
+    "Squarespace": {
+      "Squarespace": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679886597753
+        }
+      }
+    },
+    "ChatGPT": {
+      "ChatGPT": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1679886734337
+        }
+      }
+    },
+    "complimentary": {
+      "complimentary": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1679886699738
+        }
+      }
+    },
+    "chained": {
+      "chained": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1679917135114
+        }
+      }
+    },
+    "accumulator": {
+      "accumulator": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679920036587
+        }
+      }
+    },
+    "care": {
+      "care": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680129356679
+        }
+      }
+    },
+    "family": {
+      "family": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682231231143
+        }
+      }
+    },
+    "Atori Tours Website": {
+      "Atori Tours Website": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680129386879
+        }
+      }
+    },
+    "appointment": {
+      "appointment": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1680404842166
+        }
+      }
+    },
+    "use": {
+      "use": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1680828814603
+        }
+      }
+    },
+    "preventDefault": {
+      "preventDefault": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680828843617
+        }
+      }
+    },
+    "scheduled": {
+      "scheduled": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681150463797
+        }
+      }
+    },
+    "parameter": {
+      "parameter": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681330118130
+        }
+      }
+    },
+    "mathematical": {
+      "mathematical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681335962818
+        }
+      }
+    },
+    "slightly": {
+      "slightly": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681337066205
+        }
+      }
+    },
+    "delicious": {
+      "delicious": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681354679322
+        }
+      }
+    },
+    "pharmaceutical": {
+      "pharmaceutical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681354688844
+        }
+      }
+    },
+    "available": {
+      "available": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681355331759
+        }
+      }
+    },
+    "certainly": {
+      "certainly": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681354938954
+        }
+      }
+    },
+    "individual": {
+      "individual": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681355138911
+        }
+      }
+    },
+    "portfolio": {
+      "portfolio": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681355298227
+        }
+      }
+    },
+    "acknowledge": {
+      "acknowledge": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681355277995
+        }
+      }
+    },
+    "compsci": {
+      "compsci": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681355465162
+        }
+      }
+    },
+    "DateTimeFormat": {
+      "DateTimeFormat": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681658971866
+        }
+      }
+    },
+    "Ramadan": {
+      "Ramadan": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681765012176
+        }
+      }
+    },
+    "thing": {
+      "thing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682369134447
+        }
+      }
+    },
+    "way": {
+      "way": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682369180556
+        }
+      }
+    },
+    "results": {
+      "results": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682369265342
+        }
+      }
+    },
+    "habits": {
+      "habits": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682369282020
+        }
+      }
+    },
+    "beliefs": {
+      "beliefs": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682370152203
+        }
+      }
+    },
+    "change": {
+      "change": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682369937787
+        }
+      }
+    },
+    "time": {
+      "time": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682370049433
+        }
+      }
+    },
+    "Habits": {
+      "Habits": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682370386685
+        }
+      }
+    },
+    "differently": {
+      "differently": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682370454849
+        }
+      }
+    },
+    "experience": {
+      "experience": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682370623396
+        }
+      }
+    },
+    "problems": {
+      "problems": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682370699961
+        }
+      }
+    },
+    "reward": {
+      "reward": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682373878396
+        }
+      }
+    },
+    "perform": {
+      "perform": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682373775758
+        }
+      }
+    },
+    "bad": {
+      "bad": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682373815917
+        }
+      }
+    },
+    "teacher": {
+      "teacher": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682373958069
+        }
+      }
+    },
+    "Change": {
+      "Change": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682374011111
+        }
+      }
+    },
+    "beach": {
+      "beach": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1682376861272
+        }
+      }
+    },
+    "Waleed": {
+      "Waleed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682376879026
+        }
+      }
+    },
+    "ai": {
+      "ai": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682377357364
+        }
+      }
+    },
+    "Hugging Face AI": {
+      "Hugging Face AI": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682377419469
+        }
+      }
+    }
+  }
+}

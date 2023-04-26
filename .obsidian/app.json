@@ -1,0 +1,36 @@
+{
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "tabSize": 2,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "05 Extras/Attachments",
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "showIndentGuide": false,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "rightToLeft": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "sh",
+    "en-GB",
+    "en-GB-oxendict",
+    "de",
+    "fr"
+  ],
+  "autoPairMarkdown": true,
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "05 Extras/"
+  ],
+  "defaultViewMode": "source",
+  "smartIndentList": true
+}

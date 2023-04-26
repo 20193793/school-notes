@@ -1,0 +1,20 @@
+{
+  "accentColor": "#f3b4b6",
+  "interfaceFontFamily": "Ubuntu,Symbols Nerd Font,Helvetica",
+  "textFontFamily": "JetBrains Mono,Symbols Nerd Font,Monaco",
+  "monospaceFontFamily": "JetBrains Mono,Monaco",
+  "baseFontSize": 12,
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "embed",
+    "callouts",
+    "dashboard",
+    "general",
+    "multi-column",
+    "view",
+    "tracker"
+  ]
+}
