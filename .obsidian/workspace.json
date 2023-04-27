@@ -19,8 +19,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5b3972d5a858849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics Actuators 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9270dfce98e8a207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics Actuators 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f994609684dfcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VR Week 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f036b065002698c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selected Topics Lecture 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a9e435bd627f7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selected Topics Lecture 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -100,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics Sensors 2.md"
+                "file": "Selected Topics Lecture 2.md"
               }
             }
           },
@@ -110,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics Sensors 2.md",
+                "file": "Selected Topics Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics Sensors 2.md",
+                "file": "Selected Topics Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "1b03d21cf79103db",
@@ -158,8 +223,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d20eb01e6dcf7f7c",
+  "active": "3a9e435bd627f7f4",
   "lastOpenFiles": [
+    "Selected Topics Lecture 1.md",
+    "Selected Topics Lecture 2.md",
+    "VR Week 1.md",
+    "Robotics Actuators 2.md",
+    "Robotics Actuators 1.md",
     "Robotics Sensors 2.md",
     "02 Sources/JS Timeouts and Intervals.md",
     "02 Sources/JS.md",
@@ -181,11 +251,6 @@
     "04 Calendars/Logs/2023-04-01.md",
     "04 Calendars/Logs/2023-04-02.md",
     "04 Calendars/Logs/2023-04-10.md",
-    "04 Calendars/Logs/2023-04-11.md",
-    "04 Calendars/Logs/2023-04-12.md",
-    "04 Calendars/Logs/2023-04-13.sync-conflict-20230414-021134-4C6OWZC.md",
-    "01 Cards/Why Software Engineering is the Best Job in the World.md",
-    "01 Cards/Platform for Sharing Any Type of Notes.md",
     "05 Extras/Attachments/Pasted image 20230411004203.png",
     "05 Extras/Attachments/Pasted image 20230323131156.png",
     "05 Extras/Attachments/Pasted image 20230323131029 1.png",

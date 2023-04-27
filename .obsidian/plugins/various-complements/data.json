@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "web": {
-      "web": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1679886221351
-        }
-      }
-    },
     "doc": {
       "doc": {
         "frontMatter": {
@@ -68,70 +60,6 @@
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1680405138993
-        }
-      }
-    },
-    "IMPORTANT": {
-      "IMPORTANT": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1679920764020
-        }
-      }
-    },
-    "workout": {
-      "workout": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679877815302
-        }
-      }
-    },
-    "idea": {
-      "idea": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1679886211199
-        }
-      }
-    },
-    "Squarespace": {
-      "Squarespace": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679886597753
-        }
-      }
-    },
-    "ChatGPT": {
-      "ChatGPT": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1679886734337
-        }
-      }
-    },
-    "complimentary": {
-      "complimentary": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679886699738
-        }
-      }
-    },
-    "chained": {
-      "chained": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1679917135114
-        }
-      }
-    },
-    "accumulator": {
-      "accumulator": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679920036587
         }
       }
     },
@@ -250,8 +178,8 @@
     "individual": {
       "individual": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1681355138911
+          "count": 2,
+          "lastUpdated": 1682545216866
         }
       }
     },
@@ -452,6 +380,574 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682377419469
+        }
+      }
+    },
+    "range": {
+      "range": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682469045516
+        }
+      }
+    },
+    "are": {
+      "are": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682469126358
+        }
+      }
+    },
+    "measure": {
+      "measure": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682476902709
+        }
+      }
+    },
+    "satellite": {
+      "satellite": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682473640729
+        }
+      }
+    },
+    "levels": {
+      "levels": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682476556308
+        }
+      }
+    },
+    "resolution": {
+      "resolution": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682476595660
+        }
+      }
+    },
+    "autonomous": {
+      "autonomous": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682476713952
+        }
+      }
+    },
+    "Accelerometer": {
+      "Accelerometer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682476761748
+        }
+      }
+    },
+    "gyroscope": {
+      "gyroscope": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682476899319
+        }
+      }
+    },
+    "accelerometer": {
+      "accelerometer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682477012673
+        }
+      }
+    },
+    "gyroscopes": {
+      "gyroscopes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682477022887
+        }
+      }
+    },
+    "accelerometers": {
+      "accelerometers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682477041151
+        }
+      }
+    },
+    "Accelerations": {
+      "Accelerations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682477683618
+        }
+      }
+    },
+    "Temperature": {
+      "Temperature": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682507908060
+        }
+      }
+    },
+    "Inclinometer": {
+      "Inclinometer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682510229920
+        }
+      }
+    },
+    "bus": {
+      "bus": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682512548429
+        }
+      }
+    },
+    "frequently": {
+      "frequently": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682512676288
+        }
+      }
+    },
+    "Electrical": {
+      "Electrical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682512945669
+        }
+      }
+    },
+    "Hydraulic": {
+      "Hydraulic": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682512949127
+        }
+      }
+    },
+    "motors": {
+      "motors": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682513384605
+        }
+      }
+    },
+    "Pneumatic": {
+      "Pneumatic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682513260439
+        }
+      }
+    },
+    "hydraulic": {
+      "hydraulic": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682513263901
+        }
+      }
+    },
+    "field": {
+      "field": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682516050080
+        }
+      }
+    },
+    "material": {
+      "material": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682516071631
+        }
+      }
+    },
+    "cylinder": {
+      "cylinder": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682516128267
+        }
+      }
+    },
+    "Works": {
+      "Works": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682516587061
+        }
+      }
+    },
+    "electromagnet": {
+      "electromagnet": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682516884402
+        }
+      }
+    },
+    "rpm": {
+      "rpm": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682521058986
+        }
+      }
+    },
+    "gear": {
+      "gear": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682521815197
+        }
+      }
+    },
+    "DC-motors": {
+      "DC-motors": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682522087786
+        }
+      }
+    },
+    "Cheap": {
+      "Cheap": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682522090373
+        }
+      }
+    },
+    "H-Bridge": {
+      "H-Bridge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682523821528
+        }
+      }
+    },
+    "microcontroller": {
+      "microcontroller": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682523953364
+        }
+      }
+    },
+    "efficiency": {
+      "efficiency": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682527052136
+        }
+      }
+    },
+    "space": {
+      "space": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682527087948
+        }
+      }
+    },
+    "power": {
+      "power": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682527139538
+        }
+      }
+    },
+    "enviroment": {
+      "enviroment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682545087113
+        }
+      }
+    },
+    "environment": {
+      "environment": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682545099002
+        }
+      }
+    },
+    "orientation": {
+      "orientation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682545380394
+        }
+      }
+    },
+    "code": {
+      "code": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682599994071
+        }
+      }
+    },
+    "networks": {
+      "networks": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682600014882
+        }
+      }
+    },
+    "hacker": {
+      "hacker": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682600050772
+        }
+      }
+    },
+    "profit": {
+      "profit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682603869563
+        }
+      }
+    },
+    "Vulnerability": {
+      "Vulnerability": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682606149499
+        }
+      }
+    },
+    "vendors": {
+      "vendors": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682603907361
+        }
+      }
+    },
+    "Cybercriminals": {
+      "Cybercriminals": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682604482677
+        }
+      }
+    },
+    "year": {
+      "year": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682604532323
+        }
+      }
+    },
+    "intellectual": {
+      "intellectual": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682604558205
+        }
+      }
+    },
+    "property": {
+      "property": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682604572997
+        }
+      }
+    },
+    "organization": {
+      "organization": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682606146314
+        }
+      }
+    },
+    "vulnerability": {
+      "vulnerability": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682606282932
+        }
+      }
+    },
+    "attack": {
+      "attack": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682606254047
+        }
+      }
+    },
+    "probability": {
+      "probability": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682606766980
+        }
+      }
+    },
+    "consequence": {
+      "consequence": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682606777119
+        }
+      }
+    },
+    "eliminate": {
+      "eliminate": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682606914892
+        }
+      }
+    },
+    "strategy": {
+      "strategy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682606990604
+        }
+      }
+    },
+    "Cybersecurity": {
+      "Cybersecurity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682607068062
+        }
+      }
+    },
+    "Confidentiality": {
+      "Confidentiality": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1682607205200
+        }
+      }
+    },
+    "Integrity": {
+      "Integrity": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682607309360
+        }
+      }
+    },
+    "Availability": {
+      "Availability": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1682607815883
+        }
+      }
+    },
+    "Authentication": {
+      "Authentication": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682607257711
+        }
+      }
+    },
+    "Accuracy": {
+      "Accuracy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682607442342
+        }
+      }
+    },
+    "quality": {
+      "quality": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682607478762
+        }
+      }
+    },
+    "Hashing": {
+      "Hashing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682607490352
+        }
+      }
+    },
+    "validation": {
+      "validation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682607495621
+        }
+      }
+    },
+    "checks": {
+      "checks": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682607503827
+        }
+      }
+    },
+    "availability": {
+      "availability": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682607985641
+        }
+      }
+    },
+    "maintenance": {
+      "maintenance": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682608052725
+        }
+      }
+    },
+    "software": {
+      "software": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682608074615
+        }
+      }
+    },
+    "principles": {
+      "principles": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682608123238
+        }
+      }
+    },
+    "failure": {
+      "failure": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682608135495
         }
       }
     }
