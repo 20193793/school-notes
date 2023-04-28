@@ -90,8 +90,8 @@
     "appointment": {
       "appointment": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680404842166
+          "count": 3,
+          "lastUpdated": 1682641561806
         }
       }
     },
@@ -162,8 +162,8 @@
     "available": {
       "available": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1681355331759
+          "count": 3,
+          "lastUpdated": 1682632339081
         }
       }
     },
@@ -194,8 +194,8 @@
     "acknowledge": {
       "acknowledge": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1681355277995
+          "count": 6,
+          "lastUpdated": 1682702697808
         }
       }
     },
@@ -306,8 +306,8 @@
     "problems": {
       "problems": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682370699961
+          "count": 2,
+          "lastUpdated": 1682716704004
         }
       }
     },
@@ -418,8 +418,8 @@
     "levels": {
       "levels": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682476556308
+          "count": 2,
+          "lastUpdated": 1682685837515
         }
       }
     },
@@ -658,8 +658,8 @@
     "space": {
       "space": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682527087948
+          "count": 2,
+          "lastUpdated": 1682684743778
         }
       }
     },
@@ -698,16 +698,16 @@
     "code": {
       "code": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682599994071
+          "count": 2,
+          "lastUpdated": 1682645450666
         }
       }
     },
     "networks": {
       "networks": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682600014882
+          "count": 4,
+          "lastUpdated": 1682632223582
         }
       }
     },
@@ -730,8 +730,8 @@
     "Vulnerability": {
       "Vulnerability": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1682606149499
+          "count": 3,
+          "lastUpdated": 1682636744977
         }
       }
     },
@@ -778,16 +778,16 @@
     "organization": {
       "organization": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682606146314
+          "count": 2,
+          "lastUpdated": 1682618400018
         }
       }
     },
     "vulnerability": {
       "vulnerability": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1682606282932
+          "count": 4,
+          "lastUpdated": 1682685850646
         }
       }
     },
@@ -930,8 +930,8 @@
     "software": {
       "software": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682608074615
+          "count": 3,
+          "lastUpdated": 1682716783741
         }
       }
     },
@@ -948,6 +948,1142 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1682608135495
+        }
+      }
+    },
+    "Sizes": {
+      "Sizes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682610610582
+        }
+      }
+    },
+    "internet": {
+      "internet": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682610743639
+        }
+      }
+    },
+    "Communications": {
+      "Communications": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682610994725
+        }
+      }
+    },
+    "nodes": {
+      "nodes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682611040528
+        }
+      }
+    },
+    "communication": {
+      "communication": {
+        "customDictionary": {
+          "count": 7,
+          "lastUpdated": 1682696651713
+        }
+      }
+    },
+    "public": {
+      "public": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682618203811
+        }
+      }
+    },
+    "Application": {
+      "Application": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1682626028442
+        }
+      }
+    },
+    "Presentation": {
+      "Presentation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682618833777
+        }
+      }
+    },
+    "Network": {
+      "Network": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1682710858299
+        }
+      }
+    },
+    "Representation": {
+      "Representation": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682621201541
+        }
+      }
+    },
+    "Mechanical": {
+      "Mechanical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682619422286
+        }
+      }
+    },
+    "Internet": {
+      "Internet": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682619685592
+        }
+      }
+    },
+    "Dns": {
+      "Dns": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682619785845
+        }
+      }
+    },
+    "DHCPv4": {
+      "DHCPv4": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682620322782
+        }
+      }
+    },
+    "comm": {
+      "comm": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682621739488
+        }
+      }
+    },
+    "Messaging": {
+      "Messaging": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682622902586
+        }
+      }
+    },
+    "Protocols": {
+      "Protocols": {
+        "customDictionary": {
+          "count": 6,
+          "lastUpdated": 1682709153669
+        }
+      }
+    },
+    "areas": {
+      "areas": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682623432575
+        }
+      }
+    },
+    "reliability": {
+      "reliability": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682696844836
+        }
+      }
+    },
+    "layer": {
+      "layer": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1682626061357
+        }
+      }
+    },
+    "Messages": {
+      "Messages": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682624937705
+        }
+      }
+    },
+    "transmission": {
+      "transmission": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682624978844
+        }
+      }
+    },
+    "Process": {
+      "Process": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682625163630
+        }
+      }
+    },
+    "Layer": {
+      "Layer": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682696465458
+        }
+      }
+    },
+    "Pool": {
+      "Pool": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682631689783
+        }
+      }
+    },
+    "issued": {
+      "issued": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682632932331
+        }
+      }
+    },
+    "Transfer": {
+      "Transfer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682632998511
+        }
+      }
+    },
+    "Delivery": {
+      "Delivery": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682636286162
+        }
+      }
+    },
+    "Installation": {
+      "Installation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682636298183
+        }
+      }
+    },
+    "Techniques": {
+      "Techniques": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682636539942
+        }
+      }
+    },
+    "active": {
+      "active": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682636684427
+        }
+      }
+    },
+    "reconnaissance": {
+      "reconnaissance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682637069472
+        }
+      }
+    },
+    "target": {
+      "target": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682637085124
+        }
+      }
+    },
+    "Encryption": {
+      "Encryption": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682637174302
+        }
+      }
+    },
+    "legitimate": {
+      "legitimate": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1682641871308
+        }
+      }
+    },
+    "movements": {
+      "movements": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682637505918
+        }
+      }
+    },
+    "Extremely": {
+      "Extremely": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682637513220
+        }
+      }
+    },
+    "Adware": {
+      "Adware": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641469087
+        }
+      }
+    },
+    "Virus": {
+      "Virus": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641471387
+        }
+      }
+    },
+    "Spyware": {
+      "Spyware": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641477481
+        }
+      }
+    },
+    "Crypter": {
+      "Crypter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682641486672
+        }
+      }
+    },
+    "devices": {
+      "devices": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682716685368
+        }
+      }
+    },
+    "bugs": {
+      "bugs": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641580918
+        }
+      }
+    },
+    "management": {
+      "management": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641588244
+        }
+      }
+    },
+    "apps": {
+      "apps": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641595642
+        }
+      }
+    },
+    "services": {
+      "services": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682686726721
+        }
+      }
+    },
+    "malware": {
+      "malware": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1682685814531
+        }
+      }
+    },
+    "websites": {
+      "websites": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682641930726
+        }
+      }
+    },
+    "visitors": {
+      "visitors": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641888915
+        }
+      }
+    },
+    "page": {
+      "page": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682641936384
+        }
+      }
+    },
+    "Trojan": {
+      "Trojan": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682645617470
+        }
+      }
+    },
+    "damage": {
+      "damage": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682644055849
+        }
+      }
+    },
+    "activation": {
+      "activation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682644102630
+        }
+      }
+    },
+    "activities": {
+      "activities": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682644224810
+        }
+      }
+    },
+    "Kit": {
+      "Kit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682645430879
+        }
+      }
+    },
+    "computer": {
+      "computer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682645469719
+        }
+      }
+    },
+    "trojan": {
+      "trojan": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682645475511
+        }
+      }
+    },
+    "file": {
+      "file": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682645657330
+        }
+      }
+    },
+    "syntax": {
+      "syntax": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682645637477
+        }
+      }
+    },
+    "Viruses": {
+      "Viruses": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682646137136
+        }
+      }
+    },
+    "Character": {
+      "Character": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682646253514
+        }
+      }
+    },
+    "Characteristics": {
+      "Characteristics": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682703936102
+        }
+      }
+    },
+    "programs": {
+      "programs": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682646271710
+        }
+      }
+    },
+    "itself": {
+      "itself": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682646281402
+        }
+      }
+    },
+    "data": {
+      "data": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1682708288429
+        }
+      }
+    },
+    "Corruption": {
+      "Corruption": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682646288820
+        }
+      }
+    },
+    "Self-replicating": {
+      "Self-replicating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682646294820
+        }
+      }
+    },
+    "Attack": {
+      "Attack": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682684640424
+        }
+      }
+    },
+    "display": {
+      "display": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682684677460
+        }
+      }
+    },
+    "changes": {
+      "changes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682684682579
+        }
+      }
+    },
+    "system": {
+      "system": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682686682173
+        }
+      }
+    },
+    "alerts": {
+      "alerts": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682684701188
+        }
+      }
+    },
+    "missing": {
+      "missing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682684714339
+        }
+      }
+    },
+    "activity": {
+      "activity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682684725484
+        }
+      }
+    },
+    "Worms": {
+      "Worms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682685318593
+        }
+      }
+    },
+    "independently": {
+      "independently": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682685349832
+        }
+      }
+    },
+    "happened": {
+      "happened": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682685802431
+        }
+      }
+    },
+    "malicious": {
+      "malicious": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682686002919
+        }
+      }
+    },
+    "intrusion": {
+      "intrusion": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682685866758
+        }
+      }
+    },
+    "Analysis": {
+      "Analysis": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682685950559
+        }
+      }
+    },
+    "impact": {
+      "impact": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682686056137
+        }
+      }
+    },
+    "Testbed": {
+      "Testbed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682686665784
+        }
+      }
+    },
+    "machine": {
+      "machine": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682686688088
+        }
+      }
+    },
+    "mode": {
+      "mode": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682686716416
+        }
+      }
+    },
+    "isolation": {
+      "isolation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682686740818
+        }
+      }
+    },
+    "tool": {
+      "tool": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682686762316
+        }
+      }
+    },
+    "scanning": {
+      "scanning": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682687210042
+        }
+      }
+    },
+    "search": {
+      "search": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682687216657
+        }
+      }
+    },
+    "methods": {
+      "methods": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682687229742
+        }
+      }
+    },
+    "info": {
+      "info": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682687255430
+        }
+      }
+    },
+    "Ftp": {
+      "Ftp": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682690199654
+        }
+      }
+    },
+    "protocol": {
+      "protocol": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682691091755
+        }
+      }
+    },
+    "Start": {
+      "Start": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682691118641
+        }
+      }
+    },
+    "Control": {
+      "Control": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682691128655
+        }
+      }
+    },
+    "sessions": {
+      "sessions": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682691138230
+        }
+      }
+    },
+    "url": {
+      "url": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682693920267
+        }
+      }
+    },
+    "Get": {
+      "Get": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682693942884
+        }
+      }
+    },
+    "string": {
+      "string": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682694055230
+        }
+      }
+    },
+    "Informational": {
+      "Informational": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682694159271
+        }
+      }
+    },
+    "Success": {
+      "Success": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682694163813
+        }
+      }
+    },
+    "Redirection": {
+      "Redirection": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682709574308
+        }
+      }
+    },
+    "error": {
+      "error": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682694181724
+        }
+      }
+    },
+    "travels": {
+      "travels": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682694262208
+        }
+      }
+    },
+    "Negotiation": {
+      "Negotiation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682694327719
+        }
+      }
+    },
+    "Responsibilities": {
+      "Responsibilities": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682696582293
+        }
+      }
+    },
+    "information": {
+      "information": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682717154491
+        }
+      }
+    },
+    "conversation": {
+      "conversation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682696633778
+        }
+      }
+    },
+    "hosts": {
+      "hosts": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682696794422
+        }
+      }
+    },
+    "segments": {
+      "segments": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682696876847
+        }
+      }
+    },
+    "Acknowledge": {
+      "Acknowledge": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682696879666
+        }
+      }
+    },
+    "order": {
+      "order": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682696913582
+        }
+      }
+    },
+    "efficient": {
+      "efficient": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682696924189
+        }
+      }
+    },
+    "checking": {
+      "checking": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682697107398
+        }
+      }
+    },
+    "delivery": {
+      "delivery": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682700531549
+        }
+      }
+    },
+    "establishment": {
+      "establishment": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682700540174
+        }
+      }
+    },
+    "Connectionless": {
+      "Connectionless": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682703961827
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682703977441
+        }
+      }
+    },
+    "Fields": {
+      "Fields": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682704093271
+        }
+      }
+    },
+    "Version": {
+      "Version": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682704100003
+        }
+      }
+    },
+    "address": {
+      "address": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682705303060
+        }
+      }
+    },
+    "Length": {
+      "Length": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682705488352
+        }
+      }
+    },
+    "Forwarding": {
+      "Forwarding": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682708097027
+        }
+      }
+    },
+    "Gateway": {
+      "Gateway": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682708235296
+        }
+      }
+    },
+    "Ethernet": {
+      "Ethernet": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682708388192
+        }
+      }
+    },
+    "bytes": {
+      "bytes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682708571178
+        }
+      }
+    },
+    "confirmation": {
+      "confirmation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682709030525
+        }
+      }
+    },
+    "gateway": {
+      "gateway": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682709286301
+        }
+      }
+    },
+    "reply": {
+      "reply": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682709559065
+        }
+      }
+    },
+    "request": {
+      "request": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682709581022
+        }
+      }
+    },
+    "Distribution": {
+      "Distribution": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682712947780
+        }
+      }
+    },
+    "attacks": {
+      "attacks": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682713492642
+        }
+      }
+    },
+    "Intrusion": {
+      "Intrusion": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682714435412
+        }
+      }
+    },
+    "Management": {
+      "Management": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682716631406
+        }
+      }
+    },
+    "format": {
+      "format": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682716669076
+        }
+      }
+    },
+    "performance": {
+      "performance": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682716694163
+        }
+      }
+    },
+    "flow": {
+      "flow": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682716897348
+        }
+      }
+    },
+    "monitoring": {
+      "monitoring": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682716916254
+        }
+      }
+    },
+    "analysis": {
+      "analysis": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682716929884
+        }
+      }
+    },
+    "messages": {
+      "messages": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682717092155
+        }
+      }
+    },
+    "troubleshooting": {
+      "troubleshooting": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682717142591
+        }
+      }
+    },
+    "authoritai": {
+      "authoritai": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682717568559
+        }
+      }
+    },
+    "authoritative": {
+      "authoritative": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682717572215
         }
       }
     }

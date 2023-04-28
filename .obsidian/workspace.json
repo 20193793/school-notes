@@ -84,9 +84,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0132637ff3c166d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selected Topics Lecture 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8df1d3ee1dd4e4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selected Topics Lecture 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2243c734c91411e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selected Topics Lecture 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76da7e6732115823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selected Topics Lecture 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -166,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selected Topics Lecture 2.md"
+                "file": "Selected Topics Lecture 4.md"
               }
             }
           },
@@ -176,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selected Topics Lecture 2.md",
+                "file": "Selected Topics Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selected Topics Lecture 2.md",
+                "file": "Selected Topics Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,10 +275,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a9e435bd627f7f4",
+  "active": "76da7e6732115823",
   "lastOpenFiles": [
+    "Selected Topics Lecture 3.md",
     "Selected Topics Lecture 1.md",
+    "Selected Topics Lecture 4.md",
     "Selected Topics Lecture 2.md",
+    "Selected Topics Lecture 6.md",
+    "Selected Topics Lecture 5.md",
+    "Pasted image 20230427235942.png",
     "VR Week 1.md",
     "Robotics Actuators 2.md",
     "Robotics Actuators 1.md",
@@ -247,10 +304,6 @@
     "04 Calendars/Logs/2023-03-29.md",
     "04 Calendars/Logs/2023-03-28.md",
     "04 Calendars/Logs/2023-03-27.md",
-    "04 Calendars/Logs/2023-03-30.md",
-    "04 Calendars/Logs/2023-04-01.md",
-    "04 Calendars/Logs/2023-04-02.md",
-    "04 Calendars/Logs/2023-04-10.md",
     "05 Extras/Attachments/Pasted image 20230411004203.png",
     "05 Extras/Attachments/Pasted image 20230323131156.png",
     "05 Extras/Attachments/Pasted image 20230323131029 1.png",
