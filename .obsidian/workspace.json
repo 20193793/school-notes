@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "659512779855906c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selected Topics Lecture 12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selected Topics Lecture 7.md"
+                "file": "Selected Topics Lecture 12.md"
               }
             }
           },
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selected Topics Lecture 7.md",
+                "file": "Selected Topics Lecture 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selected Topics Lecture 7.md",
+                "file": "Selected Topics Lecture 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,14 +198,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "be5481321aff8f37",
+  "active": "659512779855906c",
   "lastOpenFiles": [
-    "Selected Topics Lecture 6.md",
     "Selected Topics Lecture 7.md",
+    "Selected Topics Lecture 12.md",
+    "Selected Topics Lecture 8.md",
+    "Selected Topics Lecture 6.md",
     "Selected Topics Lecture 11.md",
     "Selected Topics Lecture 10.md",
     "Selected Topics Lecture 9.md",
-    "Selected Topics Lecture 8.md",
     "Robotics Actuators 1.md",
     "Robotics Sensors 2.md",
     "Robotics Embeddded Robotics.md",
@@ -214,7 +228,6 @@
     "04 Calendars/Logs/2023.md",
     "04 Calendars/Logs/2023-03-20.md",
     "04 Calendars/Logs/2023-04-16.md",
-    "02 Sources/JS Numbers & Math.md",
     "05 Extras/Attachments/Pasted image 20230411004203.png",
     "05 Extras/Attachments/Pasted image 20230323131156.png",
     "05 Extras/Attachments/Pasted image 20230323131029 1.png",

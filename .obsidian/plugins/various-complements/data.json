@@ -242,8 +242,8 @@
     "techniques": {
       "techniques": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1685731680682
+          "count": 2,
+          "lastUpdated": 1685900106940
         }
       }
     },
@@ -346,8 +346,8 @@
     "ports": {
       "ports": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1685798045757
+          "count": 4,
+          "lastUpdated": 1685887356315
         }
       }
     },
@@ -532,6 +532,374 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1685879799392
+        }
+      }
+    },
+    "Vulnerabilities": {
+      "Vulnerabilities": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1685887464426
+        }
+      }
+    },
+    "Man-in-middle": {
+      "Man-in-middle": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685883618152
+        }
+      }
+    },
+    "reconnaissance": {
+      "reconnaissance": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1685884680585
+        }
+      }
+    },
+    "Unreachable": {
+      "Unreachable": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685884671850
+        }
+      }
+    },
+    "attacks": {
+      "attacks": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685887449372
+        }
+      }
+    },
+    "Amplification": {
+      "Amplification": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1685886307230
+        }
+      }
+    },
+    "frame": {
+      "frame": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887324320
+        }
+      }
+    },
+    "header": {
+      "header": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887486150
+        }
+      }
+    },
+    "urgent": {
+      "urgent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887502682
+        }
+      }
+    },
+    "Acknowledged": {
+      "Acknowledged": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887511205
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887521169
+        }
+      }
+    },
+    "Synchronise": {
+      "Synchronise": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685887531304
+        }
+      }
+    },
+    "numbers": {
+      "numbers": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887539676
+        }
+      }
+    },
+    "delivery": {
+      "delivery": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887569393
+        }
+      }
+    },
+    "control": {
+      "control": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685887574124
+        }
+      }
+    },
+    "communication": {
+      "communication": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685894131950
+        }
+      }
+    },
+    "request": {
+      "request": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685893926105
+        }
+      }
+    },
+    "ackermann": {
+      "ackermann": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685893945984
+        }
+      }
+    },
+    "hosts": {
+      "hosts": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685894402288
+        }
+      }
+    },
+    "endpoints": {
+      "endpoints": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685894174589
+        }
+      }
+    },
+    "Hijacking": {
+      "Hijacking": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685894274123
+        }
+      }
+    },
+    "authenticate": {
+      "authenticate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685894396007
+        }
+      }
+    },
+    "Voip": {
+      "Voip": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685894570038
+        }
+      }
+    },
+    "Collection": {
+      "Collection": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685896657728
+        }
+      }
+    },
+    "Examination": {
+      "Examination": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685896662066
+        }
+      }
+    },
+    "Analysis": {
+      "Analysis": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685896665911
+        }
+      }
+    },
+    "evidence": {
+      "evidence": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1685897144709
+        }
+      }
+    },
+    "circumstances": {
+      "circumstances": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685897286406
+        }
+      }
+    },
+    "Preservation": {
+      "Preservation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685897967944
+        }
+      }
+    },
+    "Attribution": {
+      "Attribution": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685898175732
+        }
+      }
+    },
+    "used": {
+      "used": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685898296909
+        }
+      }
+    },
+    "management": {
+      "management": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685899841520
+        }
+      }
+    },
+    "help": {
+      "help": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685898320833
+        }
+      }
+    },
+    "Management": {
+      "Management": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685899772049
+        }
+      }
+    },
+    "assurance": {
+      "assurance": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685899779314
+        }
+      }
+    },
+    "support": {
+      "support": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685899786391
+        }
+      }
+    },
+    "department": {
+      "department": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685899791310
+        }
+      }
+    },
+    "relations": {
+      "relations": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685899801857
+        }
+      }
+    },
+    "continuous": {
+      "continuous": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685899813106
+        }
+      }
+    },
+    "Cybersecurity": {
+      "Cybersecurity": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685899968867
+        }
+      }
+    },
+    "forensics": {
+      "forensics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685900098529
+        }
+      }
+    },
+    "eradication": {
+      "eradication": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685900759063
+        }
+      }
+    },
+    "theft": {
+      "theft": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685903271420
+        }
+      }
+    },
+    "detection": {
+      "detection": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685903292066
+        }
+      }
+    },
+    "incident": {
+      "incident": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685903316948
+        }
+      }
+    },
+    "analysis": {
+      "analysis": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685903344950
         }
       }
     }
