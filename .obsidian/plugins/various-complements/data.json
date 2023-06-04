@@ -234,8 +234,8 @@
     "files": {
       "files": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1685731629870
+          "count": 2,
+          "lastUpdated": 1685798970061
         }
       }
     },
@@ -268,6 +268,270 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1685731849114
+        }
+      }
+    },
+    "Monitoring": {
+      "Monitoring": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685825020650
+        }
+      }
+    },
+    "flow": {
+      "flow": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685796464568
+        }
+      }
+    },
+    "Bandwidth": {
+      "Bandwidth": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685796468147
+        }
+      }
+    },
+    "usage": {
+      "usage": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685796470202
+        }
+      }
+    },
+    "access": {
+      "access": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685796475851
+        }
+      }
+    },
+    "segmentation": {
+      "segmentation": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685797706814
+        }
+      }
+    },
+    "Entering": {
+      "Entering": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685797864600
+        }
+      }
+    },
+    "Leaving": {
+      "Leaving": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685797879778
+        }
+      }
+    },
+    "Session": {
+      "Session": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685797988516
+        }
+      }
+    },
+    "ports": {
+      "ports": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685798045757
+        }
+      }
+    },
+    "Tools": {
+      "Tools": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685827097240
+        }
+      }
+    },
+    "NetFlow": {
+      "NetFlow": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1685799028342
+        }
+      }
+    },
+    "Analyzers": {
+      "Analyzers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685798564749
+        }
+      }
+    },
+    "troubleshooting": {
+      "troubleshooting": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685798835263
+        }
+      }
+    },
+    "education": {
+      "education": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685798851739
+        }
+      }
+    },
+    "tcpdump": {
+      "tcpdump": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685798997517
+        }
+      }
+    },
+    "statistics": {
+      "statistics": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685799076269
+        }
+      }
+    },
+    "cybersecurity": {
+      "cybersecurity": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685825056691
+        }
+      }
+    },
+    "event": {
+      "event": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685827951266
+        }
+      }
+    },
+    "sensor": {
+      "sensor": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685829284722
+        }
+      }
+    },
+    "Structure": {
+      "Structure": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685829559127
+        }
+      }
+    },
+    "changing": {
+      "changing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685833422465
+        }
+      }
+    },
+    "traffic": {
+      "traffic": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685833476703
+        }
+      }
+    },
+    "classification": {
+      "classification": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685833549785
+        }
+      }
+    },
+    "positive": {
+      "positive": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685833566115
+        }
+      }
+    },
+    "negative": {
+      "negative": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685833570506
+        }
+      }
+    },
+    "Elasticsearch": {
+      "Elasticsearch": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1685836260979
+        }
+      }
+    },
+    "Kibana": {
+      "Kibana": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685835326536
+        }
+      }
+    },
+    "normalization": {
+      "normalization": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685835382584
+        }
+      }
+    },
+    "elasticsearch": {
+      "elasticsearch": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685835414389
+        }
+      }
+    },
+    "Sguil": {
+      "Sguil": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685835853919
+        }
+      }
+    },
+    "parameters": {
+      "parameters": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685836696819
+        }
+      }
+    },
+    "length": {
+      "length": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685879799392
         }
       }
     }
