@@ -1,3 +1,5 @@
+up: [[Robotics]]
+
 # Advantages of Learning Robotics for Education
 - A robot is a tangible, self-contained piece of real-world hardware
 - Robots are relatable

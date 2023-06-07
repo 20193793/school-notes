@@ -41,7 +41,7 @@ RSPAN (Remote SPAN) --> Use flexibility of VLANs
 # Network Security Monitoring Tools
 - Network protocol analyzers --> Wireshark and Tcpdump
 - NetFlow
-- SIEMS (Security Information and Event Management)
+- SIEM (Security Information and Event Management)
 
 > [!NOTE]
 > Security analysts rely on log files and SNMP for network behavior discovery
@@ -60,3 +60,11 @@ Wireshark can open files from other software such as tcpdump
 ## NetFlow
 Provides 24x7 statistics on packets that flow through a Cisco router or multilayer switch
 
+## SIEM 
+Provide real time reporting and long term analysis of security events
+
+Essential functions:
+- Forensic analysis --> Search logs and event records from sources
+- Correlation --> Examines logs and events from different systems or apps
+- Aggregation --> reduce the volume of events 
+- Reporting --> Presents

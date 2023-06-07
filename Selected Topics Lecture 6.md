@@ -88,7 +88,9 @@ Trojans create covert communication channels for transferring sensitive data
 - Lack of storage space
 - Unwanted ads and pop-up windows
 
-A virus can be created by writing virus program or using virus maker tools
+A virus can be created by 
+- Writing virus program
+- Using virus maker tools
 
 ## Worms
 
@@ -98,7 +100,7 @@ A virus can be created by writing virus program or using virus maker tools
 Attackers use worm payload to install backdoors which turn infected computers into zombies and creates botnets
 
 ## Worms VS Trojan
-Worm replicate on its own and doesn't attack itself to any programs
+Worm replicate on its own and doesn't attach itself to any programs
 Worms spreads through infected networks but a virus can't
 
 # Malware Analysis

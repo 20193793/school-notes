@@ -72,12 +72,12 @@ Simplest modules are analog that can distinguish only 8 directions represented b
 
 Digital compasses are more complex and provide a much higher directional resolution
 
-# Gyroscope, Accelerometer
+# Gyroscope & Accelerometer
 Orientation sensors are required by tracked robots, balancing robots, walking robots and autonomous robots
 
 Inertial sensors/trackers:
 - Accelerometer --> a in x-y-z
-- Gyroscope --> ω velocity around x-y-z
+- Gyroscope --> ω angular velocity around x-y-z
 
 Modern inertial trackers use solid-state structures that use micro-electro-mechanical systems (MEMS) Technology
 
@@ -133,3 +133,18 @@ Every interrupt causes considerable overhead
 A buffer is a better solution to interrupt the CPU much less frequently
 
 The advantage of FIFO that is supports asynchronous read and write in parallel
+
+Camera output is linked to the FIFO Input and camera's pixel clock triggering FIFO write line
+
+FIFO output connected to the system's data bus
+
+FIFO provides three additional status lines:
+- Empty flag
+- Full flag --> Imminent loss of image data
+- Half full flag (Most important) --> connected to CPU interrupt line
+
+## Camera Driver
+Three capture modes:
+- Read mode --> Block CPU while getting image data then continue execution after data is captured
+- Continuous capture mode --> Continuously captures frames from the camera and stores it in the buffer
+- Synchronous continuous capture mode --> Driver works in the background

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b399c07a2a9122eb",
+            "id": "cedceb21b4466f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selected Topics Lecture 6.md",
+                "file": "Robotics Control 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "be5481321aff8f37",
+            "id": "e568dc075281d843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selected Topics Lecture 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "659512779855906c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selected Topics Lecture 12.md",
+                "file": "Robotics Actuators 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selected Topics Lecture 12.md"
+                "file": "Robotics Actuators 2.md"
               }
             }
           },
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selected Topics Lecture 12.md",
+                "file": "Robotics Actuators 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selected Topics Lecture 12.md",
+                "file": "Robotics Actuators 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "1b03d21cf79103db",
@@ -198,23 +184,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "659512779855906c",
+  "active": "e568dc075281d843",
   "lastOpenFiles": [
+    "Robotics Actuators 1.md",
+    "Robotics Actuators 2.md",
+    "Robotics Sensors 2.md",
+    "Robotics Robot Behavior.md",
+    "Robotics Sensors 1.md",
+    "Robotics Embeddded Robotics.md",
+    "Robotics Driving Robots.md",
+    "Robotics Control 1.md",
     "Selected Topics Lecture 7.md",
-    "Selected Topics Lecture 12.md",
-    "Selected Topics Lecture 8.md",
-    "Selected Topics Lecture 6.md",
     "Selected Topics Lecture 11.md",
     "Selected Topics Lecture 10.md",
     "Selected Topics Lecture 9.md",
-    "Robotics Actuators 1.md",
-    "Robotics Sensors 2.md",
-    "Robotics Embeddded Robotics.md",
+    "Selected Topics Lecture 8.md",
+    "Selected Topics Lecture 6.md",
+    "Robotics.md",
+    "Selected Topics Lecture 12.md",
     "Day Planners/Day Planner-20230503.md",
     "Day Planners",
-    "Robotics Sensors 1.md",
-    "Robotics Robot Behavior.md",
-    "Robotics Actuators 2.md",
     "Selected Topics Lecture 4.md",
     "Selected Topics Lecture 3.md",
     "Selected Topics Lecture 2.md",
@@ -225,9 +214,6 @@
     "02 Sources/JS Timeouts and Intervals.md",
     "02 Sources/JS.md",
     "02 Sources/JS Dates & Internationalization.md",
-    "04 Calendars/Logs/2023.md",
-    "04 Calendars/Logs/2023-03-20.md",
-    "04 Calendars/Logs/2023-04-16.md",
     "05 Extras/Attachments/Pasted image 20230411004203.png",
     "05 Extras/Attachments/Pasted image 20230323131156.png",
     "05 Extras/Attachments/Pasted image 20230323131029 1.png",

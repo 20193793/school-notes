@@ -70,7 +70,6 @@ Sguil pivots to PRADS (Passive Real-time Asset Detection System) and SANCP (Secu
 
 Sguil contains 7 pre-build categories
 
-
 ## Queries in ELK
 Elasticsearch is built on Apache Lucene --> Lucene has its own query languagge based on JSON called query DSL (Domain Specific Language) 
 
